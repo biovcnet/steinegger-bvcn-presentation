@@ -1,0 +1,3 @@
+.rise-enabled #notebook-container { margin-left: auto !important; }
+.rise-enabled .present { top: 0 !important; }
+.rise-enabled img { max-height: 85vh !important; }
