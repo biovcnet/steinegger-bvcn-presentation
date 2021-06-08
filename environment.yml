@@ -1,0 +1,8 @@
+name: env-name-here-does-not-matter
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - mmseqs2==12.113e3 
+  - plass==4.687d7
